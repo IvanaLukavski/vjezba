@@ -1,6 +1,14 @@
+
 Prvi file
 Dodana izmjena nakon commit (bez push)
 
 Dodano u firstbranch, ne u master!!!
 
+
 Dodano u master, treba biti vidljivo i u firstbranch
+
+Provjeri da li je ovo poslje stash apply
+
+obrisano sve i denemo u stach
+
+
