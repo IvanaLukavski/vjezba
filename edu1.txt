@@ -1,1 +1,2 @@
 Prvi file
+Dodana izmjena nakon commit (bez push)
