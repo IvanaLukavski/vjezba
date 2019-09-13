@@ -7,5 +7,5 @@ Dodano u firstbranch, ne u master!!!
 
 Provjeri da li je ovo poslje stash apply
 
-obrisano sve i denemo u stach
+obrisano sve i denemo u stachddddd
 
