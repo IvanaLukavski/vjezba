@@ -2,3 +2,5 @@ Prvi file
 Dodana izmjena nakon commit (bez push)
 
 Dodano u firstbranch, ne u master!!!
+
+Dodano u master, treba biti vidljivo i u firstbranch
