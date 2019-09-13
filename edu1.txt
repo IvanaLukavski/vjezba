@@ -9,3 +9,5 @@ Provjeri da li je ovo poslje stash apply
 
 obrisano sve i denemo u stachddddd
 
+
+dff
